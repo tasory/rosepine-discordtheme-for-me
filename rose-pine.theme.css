@@ -11,7 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap')
 :root {
 --Chat-Font-Used: 'Raleway', normal ;
---Chat-Font-Size: 14px;
+--Chat-Font-Size: 12px;
 }
 :not([class="hljs"]):not(code){
 font-family: var(--Chat-Font-Used)!important;
